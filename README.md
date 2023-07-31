@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a web developer. I spend most of my time practically every day, experimenting with HTML, CSS, JavaScript, react, node.js and Mongo DB. I build websites that delight and inform. I do it well.
+I’m a android developer. I spend most of my time practically every day, experimenting with JavaScript, reactnative, node.js and Java I build apps that delight and inform. I do it well.
 
 
 ## 🌐 Socials:
